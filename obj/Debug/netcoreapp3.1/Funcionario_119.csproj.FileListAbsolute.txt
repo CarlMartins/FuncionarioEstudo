@@ -1,0 +1,13 @@
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.exe
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.deps.json
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.runtimeconfig.json
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.runtimeconfig.dev.json
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.dll
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\bin\Debug\netcoreapp3.1\Funcionario_119.pdb
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.csprojAssemblyReference.cache
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.AssemblyInfoInputs.cache
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.AssemblyInfo.cs
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.dll
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.pdb
+C:\Users\Carlos Martins\Documents\Visual Studio 2019\Projetos\C#\CSharp COMPLETO 2020\Funcionario_119\obj\Debug\netcoreapp3.1\Funcionario_119.genruntimeconfig.cache
