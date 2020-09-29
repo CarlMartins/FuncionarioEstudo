@@ -1,4 +1,7 @@
 ﻿namespace Funcionario_119.Entities.Enums {
-    class WorkerLevel {
+    enum WorkerLevel : int {
+        Junior = 0,
+        MidLevel = 1,
+        Senior = 2
     }
 }
